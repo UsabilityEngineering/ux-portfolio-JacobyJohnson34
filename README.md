@@ -1,6 +1,6 @@
 # Jacob Santoyo's UX Portfolio
 
-![IMG_5998 (1).jpg](IMG_5998 (1).jpg)
+![IMG_5998 (1).jpg] (IMG_5998 (1).jpg)
 
 Hello, my name is Jacob and I'm a mechanical engineering major. I'm 20 and my favorite hobbies include MMA, building Nerf blasters, running, basketball, pool, mountain biking, and music.
 
