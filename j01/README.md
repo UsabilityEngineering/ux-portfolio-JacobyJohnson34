@@ -2,7 +2,7 @@ I’m a mechanical engineering major, so I use the [Solidworks](https://my.solid
 
 The software does a great job following the usability guideline of having an **aesthetic and minimalist design.** This comes from the fact that there is very little on the screen. The left side of the screen has all the sketching tools in a row down the screen in boxes. The right side has some more advanced features for possibilities of how to use your model once it is finished. They are also in boxes in a row. The limited amount of tools makes this software very **memorable** since there is very little to keep track of in order to use the software **effectively**.
 
-![(https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/1640f03825200b07a89d4abb17293fff494ceddb/Journal%20pic%201.png)](https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/86392d66f52ca5c0a518825612253fddf820065e/Journal%20pic%201.png)
+![(https://JacobyJohnson34.github.io/ux-portfolio-JacobyJohnson34/Journal%20pic%201.png)]
 
 In the picture above you can see the interface and its simplicity. The ordering of the tools is very **efficient**. The boxes take up a very small amount of space on the screen while also providing understandable pictures. Also if the pictures are not clear enough, you can drag your mouse over a tool and it will tell you what the tool is. 
 
