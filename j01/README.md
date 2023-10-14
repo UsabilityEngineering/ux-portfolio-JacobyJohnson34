@@ -18,7 +18,9 @@ When trying to complete the rectangular base, I accidentally made one of the sid
 
 After completing the rectangular base, I used the pull tool to make my rectangle ten inches tall by pulling it parallel to the blue line. The simplicity of this software makes the whole experience very enjoyable. The most enjoyable feature was probably the colored lines. These lines were extremely **useful** because they saved me a lot of time from having to estimate angles.
 
-![(https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/e34f7b79400e79110548678e30e4091f057d41af/Journal%20pic%205.png)](https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/e34f7b79400e79110548678e30e4091f057d41af/Journal%20pic%205.png) ![(https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/e34f7b79400e79110548678e30e4091f057d41af/Journal%20pic%206.png)](https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/e34f7b79400e79110548678e30e4091f057d41af/Journal%20pic%206.png)
+![Journal pic 5](https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/assets/142956717/65e5b2cf-32d6-4dff-8e9b-ea81f709df45)
+
+![(https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/e34f7b79400e79110548678e30e4091f057d41af/Journal%20pic%206.png)](https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/e34f7b79400e79110548678e30e4091f057d41af/Journal%20pic%206.png)
 
 I lastly made my hole by drawing a rectangle on the side of the object and using the pull command to make the hole. The pull command was dynamic in the fact that it could pull a 2D shape in a direction to make it 3D, but could also be used to push a hole by making a shape on the side of a 3D object and pushing the shape to the opposite side of the object. After this step my project was done.
 
