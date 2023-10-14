@@ -2,4 +2,4 @@ I’m a mechanical engineering major, so I use the Solidworks software quite a b
 
 The software does a great job following the usability guideline of having an “Aesthetic and minimalist design.” This comes from the fact that there is very little on the screen. The left side of the screen has all the sketching tools in a row down the screen in boxes. The right side has some more advanced features for possibilities of how to use your model once it is finished. They are also in boxes in a row. The limited amount of tools makes this software very memorable since there is very little to keep track of in order to use the software effectively.
 https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/1640f03825200b07a89d4abb17293fff494ceddb/Journal%20pic%201.png
-# ![Figure 1-1](https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/1640f03825200b07a89d4abb17293fff494ceddb/Journal%20pic%201.png)
+#(![Figure 1-1](https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/1640f03825200b07a89d4abb17293fff494ceddb/Journal%20pic%201.png))
