@@ -6,7 +6,8 @@ The software does a great job following the usability guideline of having an **a
 
 In the picture above you can see the interface and its simplicity. The ordering of the tools is very **efficient**. The boxes take up a very small amount of space on the screen while also providing understandable pictures. Also if the pictures are not clear enough, you can drag your mouse over a tool and it will tell you what the tool is. 
 
-![(https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/00e3efbeeece9bad0efd84a6498a6ea4a19f0b33/Journal%20pic%202.PNG)]
+![(https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/00e3efbeeece9bad0efd84a6498a6ea4a19f0b33/Journal%20pic%202.png)](https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/00e3efbeeece9bad0efd84a6498a6ea4a19f0b33/Journal%20pic%202.png)
+
 
 I wanted to use sketchup to make a simple, 3d rectangle with a hole in it. I started by drawing the base of the rectangle. Drawing in sketchup is very **satisfying** because of the ease of making lines 90 degrees from each other. When drawing a line, it will automatically make it follow either the green, red, or blue line at a parallel angle if you aim the endpoint of your line in a similar direction to one of the colored lines. For my drawing, I drew a four inch line parallel to the green line, and then an eight inch line parallel to the red line. This made half of the rectangular base. 
 
