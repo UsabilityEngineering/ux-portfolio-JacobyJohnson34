@@ -6,4 +6,4 @@ The software does a great job following the usability guideline of having an “
 
 In the picture above you can see the interface and its simplicity. The ordering of the tools is very efficient. The boxes take up a very small amount of space on the screen while also providing understandable pictures. Also if the pictures are not clear enough, you can drag your mouse over a tool and it will tell you what the tool is. 
 
-!(https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/00e3efbeeece9bad0efd84a6498a6ea4a19f0b33/Journal%20pic%202.png)
+![(https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34/blob/00e3efbeeece9bad0efd84a6498a6ea4a19f0b33/Journal%20pic%202.png)]
