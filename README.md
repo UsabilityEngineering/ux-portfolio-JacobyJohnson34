@@ -6,7 +6,7 @@ Hello, my name is Jacob and I'm a mechanical engineering major. I'm 20 and my fa
 
 ## UX Team Project
 
-Coming soon.
+[BilliardsTrainer](https://github.com/ChicoState/UX-BilliardsTrainer)
 
 ## UX Journal
 
